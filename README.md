@@ -8,3 +8,4 @@ Official project page: https://vk.com/cpr_project
 RU Telegram DIY EGPU chat: https://t.me/project_xGPU
 
 RU EGPU community: https://vk.com/public108404724
+这是一款老产品，想让他在更新一下
